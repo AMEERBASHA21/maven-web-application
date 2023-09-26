@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.234.170.97:9000</sonar.host.url>
+		<sonar.host.url>http://3.93.175.253:9000</sonar.host.url>
 		<sonar.login>Ameer</sonar.login>
 		<sonar.password>Ameer132</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>AMEER-RELEASE epository</name>
-	      <url>http://54.160.86.168:8081/repository/AMEER-RELEASE/</url>
+	      <url>http://100.25.181.217:8081/repository/AMEER-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>AMEER-SNAPSHOT Repository </name>
-	      <url>http://54.160.86.168:8081/repository/AMEER-SNAPSHOT/</url>
+	      <url>http://100.25.181.217:8081/repository/AMEER-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
